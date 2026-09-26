@@ -7,3 +7,9 @@ Java utility library.
 - `dev.stratus.codec.Hex` - hex encode/decode
 - `dev.stratus.math.FastMath` - clamp, lerp, rounding helpers
 - `dev.stratus.core.Hstx` - digest matching helpers
+- `dev.stratus.time.Stopwatch` - elapsed time tracking
+- `dev.stratus.collect.RingBuffer` - fixed-size circular buffer
+- `dev.stratus.math.Vec2` - 2D vector math
+- `dev.stratus.text.Slug` - slugify and truncate
+- `dev.stratus.io.Streams` - stream copy and atomic file writes
+- `dev.stratus.core.LazyCache` - TTL-based memoization
